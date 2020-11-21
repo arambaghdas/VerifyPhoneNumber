@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VerifyPhoneNumber</string>
+    <string name="get_code">Get code</string>
+    <string name="get_code_descr">Please enter your phone number to login or register</string>
+    <string name="mobile">Mobile</string>
+    <string name="should_contain_number">The phone number must start with +79 and be digits.</string>
+    <string name="should_start_with_seven_nine">The phone number must start with +79</string>
+</resources>
