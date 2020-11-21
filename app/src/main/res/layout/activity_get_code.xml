@@ -3,7 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:tools="http://schemas.android.com/tools"
     android:fillViewport="true">
 
     <RelativeLayout
@@ -82,7 +81,6 @@
                         android:inputType="phone"
                         android:imeOptions="actionNext"
                         android:digits= "0123456789"
-                        tools:text="9620661805"
                         android:maxLength="15"
                         app:met_mask="(###) ###-##-##"
                         android:textColor="@color/colorTextColorHeader"
